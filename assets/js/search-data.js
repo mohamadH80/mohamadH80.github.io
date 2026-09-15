@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-on-how-educational-multimedia-design-principles-affect-information-processing-in-functional-brain-networks-was-published-in-scientific-reports",
+          title: 'Our paper on how educational multimedia design principles affect information processing in functional...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-a-remote-research-internship-at-the-university-of-british-columbia-on-deep-koopman-vae-models-of-eeg-brain-dynamics",
+          title: 'Started a remote research internship at the University of British Columbia on deep...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-will-attend-the-neurobridges-summer-school-in-computational-neuroscience-in-cluny-france-in-october-2026",
+          title: 'Will attend the NeuroBridges Summer School in computational neuroscience in Cluny, France, in...',
           description: "",
           section: "News",},{
         id: 'social-cv',
