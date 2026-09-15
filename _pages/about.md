@@ -6,7 +6,7 @@ subtitle: M.Sc. Student in Electrical Engineering, <a href='https://en.sharif.ed
 
 profile:
   align: right
-  # image: prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Department of Electrical Engineering</p>
