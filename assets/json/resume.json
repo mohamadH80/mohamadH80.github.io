@@ -79,9 +79,7 @@
       "startDate": "2026-03",
       "endDate": "",
       "summary": "Blood pressure estimation using RGB video",
-      "highlights": [
-        "Developing a deep-learning model that maps rPPG signals to blood pressure (SBP/DBP)"
-      ],
+      "highlights": ["Developing a deep-learning model that maps rPPG signals to blood pressure (SBP/DBP)"],
       "location": "Tehran, Iran"
     },
     {
@@ -160,10 +158,7 @@
       "startDate": "2022",
       "endDate": "2023",
       "summary": "",
-      "highlights": [
-        "Co-founded the CO-OP (cooperative education) program in the department",
-        "Finance manager of the Emeet event"
-      ]
+      "highlights": ["Co-founded the CO-OP (cooperative education) program in the department", "Finance manager of the Emeet event"]
     },
     {
       "organization": "Fardaye Sabz Charity",
@@ -181,38 +176,19 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "Java",
-        "C++",
-        "SQL"
-      ]
+      "keywords": ["Python", "MATLAB", "Java", "C++", "SQL"]
     },
     {
       "name": "Libraries & Frameworks",
       "level": "",
       "icon": "fa-solid fa-layer-group",
-      "keywords": [
-        "PyTorch",
-        "NumPy",
-        "pandas",
-        "Django",
-        "Pydantic"
-      ]
+      "keywords": ["PyTorch", "NumPy", "pandas", "Django", "Pydantic"]
     },
     {
       "name": "Tools",
       "level": "",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "Git",
-        "LaTeX",
-        "VS Code",
-        "EEGLAB",
-        "Android Studio",
-        "IntelliJ"
-      ]
+      "keywords": ["Git", "LaTeX", "VS Code", "EEGLAB", "Android Studio", "IntelliJ"]
     }
   ],
   "languages": [
@@ -236,20 +212,12 @@
     {
       "name": "Machine Learning & Biomedical Signal Processing",
       "icon": "fa-solid fa-wave-square",
-      "keywords": [
-        "rPPG",
-        "EEG",
-        "Deep generative models"
-      ]
+      "keywords": ["rPPG", "EEG", "Deep generative models"]
     },
     {
       "name": "Computational & Theoretical Neuroscience",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Brain networks",
-        "Koopman operator models",
-        "Graph signal processing"
-      ]
+      "keywords": ["Brain networks", "Koopman operator models", "Graph signal processing"]
     }
   ]
 }
