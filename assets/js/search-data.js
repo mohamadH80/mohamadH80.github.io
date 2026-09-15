@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Teaching assistant and instructor roles.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-our-paper-on-how-educational-multimedia-design-principles-affect-information-processing-in-functional-brain-networks-was-published-in-scientific-reports",
           title: 'Our paper on how educational multimedia design principles affect information processing in functional...',
           description: "",
